@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PratikGawade
-- 👀 I’m interested in Machine Leaning, Data Science, AI, etc
-- 🌱 I’m currently learning Applied Machine Leaning
-- 💞️ I’m looking for oppurtunities in ML/AI field
+- 👀 I’m interested in Devops, Cloud, Machine Leaning, Data Science, AI, etc
+- 🌱 I’m currently working at Nepa.
 - 📫 How to reach me - pratikgawade44@gmail.com
 
